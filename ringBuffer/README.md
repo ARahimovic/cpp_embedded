@@ -1,4 +1,4 @@
-### Welcome to Ring Buffer implementation
+# Welcome to Ring Buffer implementation
 This is the first data structure that we need to implement in our journey of creating shell programms and a shell interpreter
 
 ## What is a ring buffer
