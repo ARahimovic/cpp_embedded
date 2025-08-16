@@ -12,6 +12,10 @@ if(INCLUDE_UNIT_TESTS)
     find_package(GTest REQUIRED)
 endif()
 
-if(BUILD_RINGBUFFER)
-    add_subdirectory(ringBuffer)
-endif()
+
+add_subdirectory(ringBuffer)
+add_subdirectory(customLogger)
+
+# if(BUILD_RINGBUFFER)
+#     add_subdirectory(ringBuffer)
+# endif()
