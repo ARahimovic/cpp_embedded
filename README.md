@@ -10,7 +10,9 @@ Each project is in its own folder with its own README and code.
 
 ### Basics
 1. [Ring Buffer](ring_buffer/README.md) — Fixed-size circular buffer implementation.
-2. [String Parser](string_parser/README.md) — Tokenizer and command argument parser.
+2. [Custom Logger](customLogger/README.md)
+
+3. [String Parser](string_parser/README.md) — Tokenizer and command argument parser.
 3. [Basic File I/O Wrapper](file_io_wrapper/README.md) — Simple wrapper for file operations.
 
 ### Shell & Commands
